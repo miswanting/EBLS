@@ -1,0 +1,2 @@
+# EBLS
+EraBasic Language Server
